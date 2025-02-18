@@ -1,4 +1,3 @@
 .idea
 .gitignore
-Screenshots/
-Screenshots
+/Screenshots/
