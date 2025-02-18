@@ -18,6 +18,8 @@ To compile each of these projects, type one of the following:
 user@Ubuntu:~/Documents/project$ gcc -Werror *.c -O2 -o prog.exe
 ```
 
+OR
+
 ```bash
 user@Ubuntu:~/Documents/project$ gcc -Wall *.c -o prog.exe
 ```
@@ -27,7 +29,7 @@ To run a program, type the following:
 user@Ubuntu:~/Documents/project$ ./prog.exe
 ```
 
-Then, add the correct command line parameters corresponding to that project.
+Then, add the correct command line parameters specific to the project you want to run.
 Basically, the '-all' option shows all iterations, while the '-last' option only shows the last one.
 
 ## Memory handling
